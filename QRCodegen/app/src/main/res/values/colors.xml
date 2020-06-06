@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorText">#bff3d0</color>
+
+    <!-- Color Palette -->Å
+    <color name="Color0_White">#FFFFFF</color>
+    <color name="Color1_Elephant">#102c45</color>
+    <color name="Color2_Astronaut">#225270</color>
+    <color name="Color3_Calypso">#317189</color>
+    <color name="Color4_BlizzardBlue">#a2e6f0</color>
+    <color name="Color5_Madang">#bff3d0</color>
+
+</resources>
